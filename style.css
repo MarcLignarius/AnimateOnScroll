@@ -65,3 +65,11 @@ img {
 .card img {
   height: 400px;
 }
+
+.card > div {
+  padding: 2rem;
+}
+
+.card:nth-child(even) img {
+  order: 2;
+}
