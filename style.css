@@ -21,3 +21,13 @@ a {
   overflow: auto;
   padding: 0 2rem;
 }
+
+.main-header {
+  height: 55vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
