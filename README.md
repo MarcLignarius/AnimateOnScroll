@@ -32,7 +32,7 @@ Web page which uses the AOS (Animate on Scroll) library to implement a fading ef
 * Launch your terminal.
 * `cd desktop` Navigate to the desktop.
 * `git clone "https://github.com/MarcLignarius/AnimateOnScroll"` Clone this repository to your desktop.
-* `cd animateonscroll` Open up the cloned repository.
+* `cd AnimateOnScroll` Open up the cloned repository.
 * `open index.html` This will open the web page in your browser.
 
 Alternatively, visit https://marclignarius.github.io/AnimateOnScroll/ to see the live version of the application. 
